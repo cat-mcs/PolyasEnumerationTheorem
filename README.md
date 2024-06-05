@@ -1,2 +1,2 @@
-#/ masters thesis + scripts (2023)
+# / masters thesis + scripts (2023)
 
